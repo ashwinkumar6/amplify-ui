@@ -27,7 +27,6 @@ Amplify UI is an open-source UI library with cloud-connected components that are
 | [@aws-amplify/ui-angular](https://www.npmjs.com/package/@aws-amplify/ui-angular) | ![](https://img.shields.io/npm/dw/@aws-amplify/ui-angular?label=Download&logo=Amplify)          | ![](https://img.shields.io/npm/v/@aws-amplify/ui-angular/latest)        |
 
 ## Documentation
-
 - https://ui.docs.amplify.aws/
 
 ## Getting started
