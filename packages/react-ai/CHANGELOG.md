@@ -1,5 +1,18 @@
 # @aws-amplify/ui-react-ai
 
+## 1.4.2
+
+### Patch Changes
+
+- [#6429](https://github.com/aws-amplify/amplify-ui/pull/6429) [`07537526e1c656669e634a7b67036244a3649d10`](https://github.com/aws-amplify/amplify-ui/commit/07537526e1c656669e634a7b67036244a3649d10) Thanks [@joon-won](https://github.com/joon-won)! - fix(ui-react-ai): Addressing cross-browser inconsistencies in AIConversation IME input handling
+
+- [#6521](https://github.com/aws-amplify/amplify-ui/pull/6521) [`1002c52796c78243f836c3c0edc95edfe244f112`](https://github.com/aws-amplify/amplify-ui/commit/1002c52796c78243f836c3c0edc95edfe244f112) Thanks [@calebpollman](https://github.com/calebpollman)! - chore(lint): add consistent import/export type eslint rules
+
+- Updated dependencies [[`1002c52796c78243f836c3c0edc95edfe244f112`](https://github.com/aws-amplify/amplify-ui/commit/1002c52796c78243f836c3c0edc95edfe244f112)]:
+  - @aws-amplify/ui-react@6.11.3
+  - @aws-amplify/ui-react-core@3.4.3
+  - @aws-amplify/ui@6.10.3
+
 ## 1.4.1
 
 ### Patch Changes
