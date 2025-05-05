@@ -1,5 +1,16 @@
 # @aws-amplify/ui-react-native-auth
 
+## 0.0.50
+
+### Patch Changes
+
+- [`42c96168475f09e762149bd64f97456ebd6a6ecd`](https://github.com/aws-amplify/amplify-ui/commit/42c96168475f09e762149bd64f97456ebd6a6ecd) Thanks [@ashwinkumar6](https://github.com/ashwinkumar6)! - chore(lint): add consistent import/export type eslint rules
+
+- Updated dependencies [[`42c96168475f09e762149bd64f97456ebd6a6ecd`](https://github.com/aws-amplify/amplify-ui/commit/42c96168475f09e762149bd64f97456ebd6a6ecd)]:
+  - @aws-amplify/ui-react-core-auth@0.0.47
+  - @aws-amplify/ui-react-native@2.5.3
+  - @aws-amplify/ui@6.10.3
+
 ## 0.0.49
 
 ### Patch Changes
